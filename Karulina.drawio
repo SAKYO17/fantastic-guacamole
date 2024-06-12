@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T15:06:16.086Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" version="24.5.3" etag="7EUs22W2Z0fcPL9_n-0G" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-12T15:26:24.180Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="TAVE_VA1VT8vbY0EBi1A" version="24.5.3" type="github">
   <diagram name="Page-1" id="sN1TuHYhFFZQFHvBme8z">
-    <mxGraphModel>
+    <mxGraphModel dx="1034" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rXH0V8Tg6eLGxFPYWAXF-11" value="id user&lt;div&gt;Nom,Prénom&lt;/div&gt;&lt;div&gt;Loggin&lt;/div&gt;&lt;div&gt;Password&lt;/div&gt;&lt;div&gt;Nombre d&#39;enfants Mineurs&lt;/div&gt;&lt;div&gt;Nombre d&#39;enfants Adultes&lt;/div&gt;&lt;div&gt;Date de création&lt;/div&gt;&lt;div&gt;Date de modification&lt;/div&gt;&lt;div&gt;Date de suppression&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="280" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="rXH0V8Tg6eLGxFPYWAXF-15" value="User" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rXH0V8Tg6eLGxFPYWAXF-16" value="id hébergeur&lt;div&gt;Nom&lt;/div&gt;&lt;div&gt;Tarifs&lt;/div&gt;&lt;div&gt;Types&lt;/div&gt;&lt;div&gt;Superficies&lt;/div&gt;&lt;div&gt;Date de création&lt;/div&gt;&lt;div&gt;Date de modification&lt;/div&gt;&lt;div&gt;Date de suppression&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="480" y="80" width="280" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="rXH0V8Tg6eLGxFPYWAXF-17" value="Hébergeur" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="80" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rXH0V8Tg6eLGxFPYWAXF-18" value="id réservation&lt;div&gt;Caution&lt;/div&gt;&lt;div&gt;Montant&lt;/div&gt;&lt;div&gt;Début de réservation&lt;/div&gt;&lt;div&gt;Fin de réservation&lt;/div&gt;&lt;div&gt;Date de cr&amp;amp;ation&lt;/div&gt;&lt;div&gt;Date de modification&lt;/div&gt;&lt;div&gt;Date de suppression&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="80" y="440" width="280" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="rXH0V8Tg6eLGxFPYWAXF-19" value="Réservation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="440" width="280" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
