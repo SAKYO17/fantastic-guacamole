@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T18:46:49.674Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="x74AZWZjFEOe-kqxA2Hb" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T18:49:39.468Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="DQgMvD83e3209RwibkHi" version="24.5.4" type="github">
   <diagram name="Page-1" id="sN1TuHYhFFZQFHvBme8z">
     <mxGraphModel dx="994" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -69,17 +69,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nfDSCfTXi77_VSGzIVfX-58" value="Hébergeur" style="shape=table;startSize=20;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="510" y="78" width="290" height="300" as="geometry" />
+          <mxGeometry x="510" y="70" width="290" height="300" as="geometry" />
         </mxCell>
         <mxCell id="nfDSCfTXi77_VSGzIVfX-59" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nfDSCfTXi77_VSGzIVfX-58">
           <mxGeometry y="20" width="290" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="nfDSCfTXi77_VSGzIVfX-60" value="id user&lt;div&gt;Nom&lt;/div&gt;&lt;div&gt;Prénom&lt;/div&gt;&lt;div&gt;Date de naissance&amp;nbsp;&lt;/div&gt;&lt;div&gt;Adresse&lt;/div&gt;&lt;div&gt;Code Postal&lt;/div&gt;&lt;div&gt;Téléphone&lt;/div&gt;&lt;div&gt;Mail&lt;/div&gt;&lt;div&gt;Tarifs&lt;/div&gt;&lt;div&gt;Types&lt;/div&gt;&lt;div&gt;Superficies&lt;/div&gt;&lt;div&gt;Loggin&lt;/div&gt;&lt;div&gt;Password&lt;/div&gt;&lt;div&gt;Nombre d&#39;adultes&lt;/div&gt;&lt;div&gt;Nombre d&#39;enfants mineurs&lt;/div&gt;&lt;div&gt;Nombre d&#39;enfants majeurs&lt;/div&gt;&lt;div&gt;Date de création&lt;/div&gt;&lt;div&gt;Date de modification&lt;/div&gt;&lt;div&gt;Date de suppression&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="nfDSCfTXi77_VSGzIVfX-59">
+        <mxCell id="nfDSCfTXi77_VSGzIVfX-60" value="id user&lt;div&gt;Nom&lt;/div&gt;&lt;div&gt;Prénom&lt;/div&gt;&lt;div&gt;Date de naissance&amp;nbsp;&lt;/div&gt;&lt;div&gt;Adresse&lt;/div&gt;&lt;div&gt;Code Postal&lt;/div&gt;&lt;div&gt;Téléphone&lt;/div&gt;&lt;div&gt;Mail&lt;/div&gt;&lt;div&gt;Tarifs&lt;/div&gt;&lt;div&gt;Types&lt;/div&gt;&lt;div&gt;Superficies&lt;/div&gt;&lt;div&gt;Loggin&lt;/div&gt;&lt;div&gt;Password&lt;/div&gt;&lt;div&gt;Date de création&lt;/div&gt;&lt;div&gt;Date de modification&lt;/div&gt;&lt;div&gt;Date de suppression&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="nfDSCfTXi77_VSGzIVfX-59">
           <mxGeometry width="160" height="280" as="geometry">
             <mxRectangle width="160" height="280" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nfDSCfTXi77_VSGzIVfX-61" value="varcar&lt;div&gt;varchar&lt;/div&gt;&lt;div&gt;varchar&lt;/div&gt;&lt;div&gt;date&lt;/div&gt;&lt;div&gt;varchar&lt;/div&gt;&lt;div&gt;number&lt;/div&gt;&lt;div&gt;number&lt;/div&gt;&lt;div&gt;varchar&lt;/div&gt;&lt;div&gt;number&lt;/div&gt;&lt;div&gt;varchar&lt;/div&gt;&lt;div&gt;number&lt;/div&gt;&lt;div&gt;varchar&lt;/div&gt;&lt;div&gt;varchar&lt;/div&gt;&lt;div&gt;number&lt;br&gt;&lt;/div&gt;&lt;div&gt;number&lt;/div&gt;&lt;div&gt;number&lt;/div&gt;&lt;div&gt;date&lt;/div&gt;&lt;div&gt;date&lt;/div&gt;&lt;div&gt;date&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="nfDSCfTXi77_VSGzIVfX-59">
+        <mxCell id="nfDSCfTXi77_VSGzIVfX-61" value="varcar&lt;div&gt;varchar&lt;/div&gt;&lt;div&gt;varchar&lt;/div&gt;&lt;div&gt;date&lt;/div&gt;&lt;div&gt;varchar&lt;/div&gt;&lt;div&gt;number&lt;/div&gt;&lt;div&gt;number&lt;/div&gt;&lt;div&gt;varchar&lt;/div&gt;&lt;div&gt;number&lt;/div&gt;&lt;div&gt;varchar&lt;/div&gt;&lt;div&gt;number&lt;/div&gt;&lt;div&gt;varchar&lt;/div&gt;&lt;div&gt;varchar&lt;/div&gt;&lt;div&gt;date&lt;/div&gt;&lt;div&gt;date&lt;/div&gt;&lt;div&gt;date&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="nfDSCfTXi77_VSGzIVfX-59">
           <mxGeometry x="160" width="130" height="280" as="geometry">
             <mxRectangle width="130" height="280" as="alternateBounds" />
           </mxGeometry>
